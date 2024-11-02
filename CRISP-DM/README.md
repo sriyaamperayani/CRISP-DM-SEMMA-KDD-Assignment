@@ -9,8 +9,5 @@ This project predicts the price of an Airbnb listing in NYC based on features su
 - `airbnb_price_prediction_app.py`: Flask API for model deployment.
 - `UserGuide.md`: Instructions on how to use the model.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sriyaamperayani/CRISP-DM-SEMMA-KDD-Assignment/CRISP-DM.git
-   cd CRISP-DM
+## Medium Article
+https://medium.com/@sriyaamperayani/building-an-airbnb-price-prediction-model-with-crisp-dm-a-step-by-step-guide-39fd106bd80a
