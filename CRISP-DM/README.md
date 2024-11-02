@@ -13,4 +13,4 @@ This project predicts the price of an Airbnb listing in NYC based on features su
 1. Clone the repository:
    ```bash
    git clone https://github.com/sriyaamperayani/CRISP-DM-SEMMA-KDD-Assignment/CRISP-DM.git
-   cd airbnb-price-prediction
+   cd CRISP-DM
