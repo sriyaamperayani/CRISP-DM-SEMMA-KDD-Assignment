@@ -7,5 +7,5 @@ This project predicts the price of Airbnb listings in NYC using features such as
 - `Notebooks/`: Google Colab notebooks for data exploration and analysis.
 - `Data/`: Contains the dataset
 
-## Medium Article:
+## Medium Article
 https://medium.com/@sriyaamperayani/semma-analysis-of-new-york-city-airbnb-listings-1b92d1891069
